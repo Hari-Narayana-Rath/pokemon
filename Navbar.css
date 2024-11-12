@@ -1,0 +1,28 @@
+.navbar {
+  width: 90%;
+  background-color: #0b2374; 
+  padding: 1rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 49%;
+  border-width: 5px;
+  border-color: yellow;
+}
+
+.navbar img {
+  height: 80%;
+  width: 25%;
+}
+#face{
+  width: auto;
+  height: 250px;
+  position: relative;
+}
+
+@media (max-width: 640px) {
+  .navbar img {
+    height: 2rem; 
+  }
+}
