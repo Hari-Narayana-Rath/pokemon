@@ -36,4 +36,6 @@ npm install
 ```bash
 npm run dev
 ```
+### you can checkout the deployed app on
+ ### https://hari-narayana-rath.github.io/pokemon/
 =======
