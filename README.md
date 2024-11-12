@@ -3,9 +3,8 @@
 A React-based application that provides information about various Pokémon.
 
 ## **Features**
-- Displays a list of Pokémon with their details.
+- Displays a list of Pokémon with their names and images.
 - Responsive design for optimal viewing on different devices.
-- Interactive user interface with navigation.
 
 ## **Tech Stack**
 - **Frontend**: React (bootstrapped with Vite)
@@ -28,3 +27,10 @@ Ensure you have the following installed on your system:
 ```bash
 git clone https://github.com/Hari-Narayana-Rath/pokemon.git
 cd pokemon
+```
+```bash
+npm install
+```
+```bash
+npm run dev
+```
