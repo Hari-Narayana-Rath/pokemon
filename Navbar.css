@@ -12,12 +12,9 @@
 }
 
 .navbar img {
-  height: auto; /* Adjusts height proportionally */
-  max-height: 100px; /* Ensures the image doesn't get too large */
-  width: auto; /* Maintains aspect ratio */
-  max-width: 200px; /* Sets a maximum width */
+  height: 80%;
+  width: 25%;
 }
-
 #face{
   width: auto;
   height: 250px;
