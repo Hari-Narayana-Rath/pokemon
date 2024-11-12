@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: 'Press Start 2P', cursive; /* Retro pixelated font */
+    background-image: url('good.jpeg'); /* Path to your background image in the public folder */
+    background-size: cover; /* Make sure the image covers the entire screen */
+    background-position: center; /* Center the image */
+    background-attachment: fixed; /* Fix the background so it doesn't scroll */
+    margin: 0; /* Reset body margin */
+    color: white; /* Set default text color to white for better visibility */
+  }
+  
+
+html, body, .App {
+  height: 100%;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px;
+}
