@@ -6,7 +6,7 @@ function Navbar() {
     <nav className="navbar">
       <img 
         src="/pokemon-logo.png" 
-        alt="Pokémon Logo" 
+        alt="Pokémon logo" 
         className="logo-img" 
       />
     </nav>
