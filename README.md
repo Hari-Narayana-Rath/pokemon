@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **Pokemon React Application**
 
 A React-based application that provides information about various Pokémon.
