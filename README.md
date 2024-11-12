@@ -28,9 +28,11 @@ Ensure you have the following installed on your system:
 git clone https://github.com/Hari-Narayana-Rath/pokemon.git
 cd pokemon
 ```
+### install latest version of npm
 ```bash
 npm install
 ```
+### run the application on ur own localhost
 ```bash
 npm run dev
 ```
