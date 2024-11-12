@@ -1,10 +1,11 @@
 import React from 'react';
-import './Navbar.css'; 
+import './Navbar.css';
+import pokemonLogo from './assets/pokemon-logo.jpg';
 
 function Navbar() {
   return (
     <nav className="navbar">
-      <img src="/pokemon-logo.png" alt="Pokémon Logo" className="logo-img" />
+      <img src={pokemonLogo} alt="Pokémon Logo" />
     </nav>
   );
 }
